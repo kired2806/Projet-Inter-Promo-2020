@@ -1,0 +1,162 @@
+﻿innovation
+innov
+devops
+développement operations
+développement exploitation
+interopérabilité
+migration automatique
+idm
+ingénierie dirigée par les modèles
+mde
+Model Driven Engineering
+ligne de produits
+traçabilité
+iot
+Internet Of Things
+ro
+recherche opérationnelle
+ml
+machine learning
+ia
+intelligence artificielle
+nlp
+Programmation neuro-linguistique
+traitement automatique du langage
+tal
+analyse d'image
+3d
+Trois dimensions
+ihm
+interfaces homme machine
+data-visualisation
+dataviz
+visualisation de données
+visualisation d'informations
+datavis
+infovis
+Information Visualization 
+ar
+réalité augmentée
+vr
+réalité virtuelle
+mr
+réalité mixte
+robots
+bots
+robotique
+robotique sociale
+sig
+Système d'Information et de Gestion
+réseau
+sécurité
+si
+systèmes d'information
+software
+soft
+algorithmes génétiques
+nsga
+Non-dominated Sorting Genetic Algorithm
+chatbot
+adl
+abstract description language
+bd
+base de données
+data base
+blockchain
+material design
+Mater. Des.
+deep learning
+dl
+reconnaissance d'image
+reconnaissance d'objets 3d
+edge analytics
+Enhanced Data Rates for GSM Evolution analytics
+big data
+bigdata
+big-data
+rpa
+automatisation des processus robotises
+hyperautomation
+jumeau numérique
+digital twin
+device shadow
+immersive workspace
+digitalops
+augmented intelligence
+ai
+wearable
+wearable technology 
+multitouch
+edge computing
+cloud
+data centers
+5g
+cinquième génération
+explainable ai
+explainable artificial intelligence
+edge aiEnhanced Data Rates for GSM Evolution artificial intelligence
+graphes de connaissances
+knowledge graphs
+ai paas
+artificial intelligence Platform as a Service
+graph analytics
+drone
+virtual assistant
+va
+ontologie
+bmi
+brain machine interface
+bci
+bureau concept ingenierie
+silver economy
+smart city
+ville intelligente
+ville numérique
+université du futur
+université 4.0
+industrie 4.0
+optimisation
+système de recommandation
+moteur de recommandation
+user experience
+ux
+design thinking
+Design Thinking Process 
+web scraping
+sustainability
+développement durable
+dd
+écologie
+résilience
+interfaces intelligentes
+interfaces utilisateur intelligentes
+iui
+digitalisation
+saas
+Software As A Service
+microservices
+4.0
+du futur
+civictech
+détection d'anomalies
+anomaly detection
+outlier detection
+déploiement automatique
+fusion de données
+aide à la décision
+low code
+intergiciel
+world sensing
+Ordinateur quantique
+cybersécurité
+véhicule autonome
+low-tech
+DIY
+do it yourself
+makers
+conjoncture
+enjeux
+prospective
+nouvelle génération
+ng
+New Generation

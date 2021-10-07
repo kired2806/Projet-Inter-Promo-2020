@@ -1,0 +1,158 @@
+﻿Collectivité territoriale
+Administration 
+admin
+adm
+Mairie
+Commune
+cne
+Communauté d'agglomération
+ca
+Intercommunalités
+Collectivités locales
+Agglomération
+agglo
+aggl
+Organisation territoriale
+ville
+élus
+Finance
+Finances publiques
+Gestion financière
+Performance publique
+Analyse financière 
+af
+évaluation des politiques publiques
+epp
+Rapport de la Cour des comptes
+CAP22
+Comité action publique 2022
+Comité action publique
+cap
+Pilotage des dépenses 
+Flux financiers
+Gestion comptable
+Gestion de trésorerie
+Budget
+budg
+Processus achat
+management opérationnel
+aide à la décision
+programmation pluriannuelle
+PPI
+Plan Particulier d'Intervention 
+PPF
+Parti populaire français
+trajectoire financière
+AP
+autorisation de programme
+APCP
+Aerojet Photoelectric Cell Program
+CP
+crédit de paiement
+AP/CP
+autorisations de programme / crédits de paiement
+gestion budgétaire
+immobilisation
+subvention
+suivi financier et technique des marchés
+SIGF
+Société des Internes et jeunes Généticiens de France
+simulation
+arbitrage
+maquette budgétaire
+bons de commandes
+bc
+factures
+fact
+liquidation
+liquida
+signature électronique
+eSigning
+eSignature
+trésorerie
+archivage électronique
+télétransmission
+GED
+gestion électronique des documents
+dette
+comptabilité
+compt
+compta
+chaîne comptable
+factures électroniques
+efacture
+e-facture
+télétransmission
+M14
+M4X
+M832
+M22
+dépenses
+recettes
+contrôles des saisies
+dépassement de crédit
+gestion de la comptabilité
+gestion de la dette
+gestion de l'inventaire
+emprunt
+patrimoine comptable
+validité réglementaire des saisies
+éditions réglementaires
+reporting
+pilotage
+marchés publics
+pilotage de l'achat
+gestion des pièces financières
+suivi administratif des consultations
+dématérialisation
+demat
+procédures de marchés publics
+règlement de consultation
+assistance fonctionnelle juridique
+Ressources humaines
+RH
+SIRH
+Système d'Information Ressources Humaines
+indicateurs clés
+tableaux de bord
+tdb
+pilotage
+masse salariale
+Paie
+Gestion de la paie
+agents
+agt
+fonctionnaire
+personnel
+managers
+mgr
+changement de poste 
+reclassement
+évaluation
+eval
+formation
+retraites
+capital humain
+talents
+GPEC
+Gestion Prévisionnelle des Emplois et des Compétences
+métiers
+emplois
+compétences
+compce
+activités
+act
+risques
+recrutement
+données de gestion
+workflow
+carrière
+conduite du changement
+accompagnement du changement 
+relations sociales
+gestion administrative
+contrôle de gestion
+cdg
+indicateurs d'exploitation
+anomalie
+Référentiel patrimoine
